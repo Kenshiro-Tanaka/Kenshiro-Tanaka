@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kenshiro-Tanaka
-- 👀 I’m interested in python.
-- 🌱 I’m currently learning Blockchain.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python & C++.
+- 🌱 I’m currently learning IoT.
+- 💞️ I’m looking to get a job for security engineer.
 - 📫 How to reach me ...
 
 <!---
