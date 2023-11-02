@@ -7,9 +7,11 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/ で作成
 
 - 🔭 I’m currently looking for **Security engineer job.**
 
-- 🌱 I’m currently learning **a communication network.**
+- 🌱 I’m currently learning **a communication network and sound recognition.**
 
 - 📝 I regularly write articles on [https://qiita.com/NAT](https://qiita.com/NAT).
+
+- My portfolio is [https://kenshiro-tanaka.github.io/portfolio/](https://kenshiro-tanaka.github.io/portfolio/).
 
 - ⚡ Fun fact **I do work out everyday.**
 
